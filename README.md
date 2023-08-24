@@ -17,7 +17,15 @@
 <p align='center'>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMarkoMC&theme=github_dark&layout=compact&border_color=4C8EDA&card_width=445&border_radius=12" />
 </p>
-
 </details>
 
+<details>
+  <summary>
+    <samp>want to donate?</samp>
+  </summary>
+  <br>
+<p> BTC: 1MUTTL5MxSXFVSiervvrw3mioFmutGEVqW </p>
+<p> LTC: LfhQiYPC36mJkFQp34vAD4qV1U9BweCZzZ</p>
+<p> KAS: kaspa:qzqrgs68wf4q6upcj73x26t5nhemqpu5tlw349t8xgj7pxktg4l2kjc57gkf0 </p>
+</details>
 
