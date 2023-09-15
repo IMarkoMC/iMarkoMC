@@ -27,5 +27,6 @@
 <p> BTC: 1MUTTL5MxSXFVSiervvrw3mioFmutGEVqW </p>
 <p> LTC: LfhQiYPC36mJkFQp34vAD4qV1U9BweCZzZ</p>
 <p> KAS: kaspa:qzqrgs68wf4q6upcj73x26t5nhemqpu5tlw349t8xgj7pxktg4l2kjc57gkf0 </p>
+<a href='https://ko-fi.com/V7V3P87V4' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </details>
 
